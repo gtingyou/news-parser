@@ -1,0 +1,1 @@
+scp -P 50345 ./NewsNetwork_ch_20210412.db  u4839782@203.145.219.216:~/GCN-NRS/db/  
